@@ -23,5 +23,10 @@ open class Human (
 
 
 }
+
+
+
+
+
 //constructor(name: String, age: Int, hobby: String): super(name, age) {
 //    }
